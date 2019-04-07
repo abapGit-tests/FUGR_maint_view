@@ -4,8 +4,6 @@
   <asx:values>
    <PROGDIR>
     <NAME>LZABAPGIT_UNIT_TETOP</NAME>
-    <STATE>A</STATE>
-    <VARCL>X</VARCL>
     <DBAPL>S</DBAPL>
     <DBNA>D$</DBNA>
     <SUBC>I</SUBC>
