@@ -54,6 +54,7 @@
      <INDEXNAME>Z10</INDEXNAME>
      <AS4LOCAL>A</AS4LOCAL>
      <DDLANGUAGE>E</DDLANGUAGE>
+     <DBINDEX>ZABAPGIT_UNIT_TEZ1</DBINDEX>
      <DDTEXT>MANDT + FIELD</DDTEXT>
     </DD12V>
    </DD12V>
@@ -73,6 +74,12 @@
      <FIELDNAME>FIELD</FIELDNAME>
     </DD17V>
    </DD17V>
+   <TABL_EXTRAS>
+    <TDDAT>
+     <TABNAME>ZABAPGIT_UNIT_TE</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+   </TABL_EXTRAS>
   </asx:values>
  </asx:abap>
 </abapGit>
